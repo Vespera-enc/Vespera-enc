@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vespéra</h1>
-<h3 align="center">A French student in informatics, doing machin vision, language models, robotic, softwares, web app, search engine, and some other stuff.</h3>
+<h3 align="center">A French student, doing machin vision, language models, robotic, softwares, web app, search engine, and some other stuff.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vespera-enc&label=Profile%20views&color=0e75b6&style=flat" alt="vespera-enc" /> </p>
 
